@@ -1,0 +1,9 @@
+entry -- filter : //manifest
+data entry : //#id receive-text 
+  
+  Pascal : "true" 
+  <date begin="ftp://update.datecreated" />begin</date>
+
+  { this database entry "function started" from when it began *; <-import ah2s WriteLn in exit to end; }
+}
+   
